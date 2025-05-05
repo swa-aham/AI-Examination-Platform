@@ -11,39 +11,39 @@ const MOCK_REPORTS = {
     month: 4, // April
     year: 2025,
     overallPercentage: 76,
-    monthlyAssessment: 'John has shown consistent performance this month with notable improvement in Science. His understanding of core concepts is strong, but there's room for improvement in detailed explanations and application of concepts to complex problems.',
-    progressEvaluation: 'Overall, John has improved by 5% compared to last month. His grasp of fundamental concepts is solid, but he needs to focus on more detailed explanations and complex problem-solving.',
+    monthlyAssessment: "John has shown consistent performance this month with notable improvement in Science. His understanding of core concepts is strong, but there's room for improvement in detailed explanations and application of concepts to complex problems.",
+    progressEvaluation: "Overall, John has improved by 5% compared to last month. His grasp of fundamental concepts is solid, but he needs to focus on more detailed explanations and complex problem-solving.",
     improvementPercentage: 5,
     recommendedActions: [
-      'Spend more time on practice questions related to Newton\'s Third Law and friction',
-      'Work on providing more detailed explanations with specific examples',
-      'Review and practice questions on ancient Mesopotamian civilization',
-      'Continue the strong performance in English comprehension'
+      "Spend more time on practice questions related to Newton's Third Law and friction",
+      "Work on providing more detailed explanations with specific examples",
+      "Review and practice questions on ancient Mesopotamian civilization",
+      "Continue the strong performance in English comprehension"
     ],
     subjectProgress: [
       {
         subject: 'Science',
         examCount: 2,
         averageScore: 82,
-        strengths: ['Understanding of Newton\'s First and Second Laws', 'Explanation of basic force concepts'],
-        weaknesses: ['Detailed examples of Newton\'s Third Law', 'Application of concepts to real-world scenarios'],
-        analysis: 'John demonstrates a strong grasp of fundamental physics concepts, particularly Newton\'s First and Second Laws. His explanations of basic force concepts are clear and accurate. To improve, he should focus on providing more detailed examples for Newton\'s Third Law and better applying these concepts to real-world scenarios.'
+        strengths: ["Understanding of Newton's First and Second Laws", "Explanation of basic force concepts"],
+        weaknesses: ["Detailed examples of Newton's Third Law", "Application of concepts to real-world scenarios"],
+        analysis: "John demonstrates a strong grasp of fundamental physics concepts, particularly Newton's First and Second Laws. His explanations of basic force concepts are clear and accurate. To improve, he should focus on providing more detailed examples for Newton's Third Law and better applying these concepts to real-world scenarios."
       },
       {
         subject: 'Social Science',
         examCount: 1,
         averageScore: 68,
-        strengths: ['Knowledge of major ancient civilizations', 'Understanding of basic historical timelines'],
-        weaknesses: ['Details about Mesopotamian civilization', 'Analysis of historical significance'],
-        analysis: 'John has a good overview of major ancient civilizations and their timelines. However, his knowledge of specific details about Mesopotamian civilization needs improvement. He should also work on analyzing the historical significance of key events and developments.'
+        strengths: ["Knowledge of major ancient civilizations", "Understanding of basic historical timelines"],
+        weaknesses: ["Details about Mesopotamian civilization", "Analysis of historical significance"],
+        analysis: "John has a good overview of major ancient civilizations and their timelines. However, his knowledge of specific details about Mesopotamian civilization needs improvement. He should also work on analyzing the historical significance of key events and developments."
       },
       {
         subject: 'English',
         examCount: 1,
         averageScore: 85,
-        strengths: ['Reading comprehension', 'Vocabulary usage'],
-        weaknesses: ['Complex grammar structures', 'Essay organization'],
-        analysis: 'John excels in reading comprehension and has a strong vocabulary. His grammar is generally good, but he sometimes struggles with more complex structures. His essays would benefit from better organization and more cohesive paragraph transitions.'
+        strengths: ["Reading comprehension", "Vocabulary usage"],
+        weaknesses: ["Complex grammar structures", "Essay organization"],
+        analysis: "John excels in reading comprehension and has a strong vocabulary. His grammar is generally good, but he sometimes struggles with more complex structures. His essays would benefit from better organization and more cohesive paragraph transitions."
       }
     ]
   }
